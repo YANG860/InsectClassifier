@@ -1,13 +1,14 @@
 昆虫数据分类
-逻辑回归任务
-2025.2-3
+一个逻辑回归分类任务
+
+2025.2
 
 main:
 
-np实现
-线性  =>  sigmoid  =>  交叉熵损失
+使用np实现
+线性层  =>  sigmoid  =>  交叉熵损失
 
-torch_ver:
+torch:
 
-torch实现
-线性  =>  sigmoid  =>  交叉熵损失
+使用torch实现
+线性层  =>  sigmoid  =>  交叉熵损失
